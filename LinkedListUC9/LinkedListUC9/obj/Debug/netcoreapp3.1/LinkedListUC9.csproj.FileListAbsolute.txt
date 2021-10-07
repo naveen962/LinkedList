@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.exe
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.deps.json
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.runtimeconfig.json
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.dll
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.pdb
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.dll
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.pdb
+C:\Users\INDIA\source\repos\LinkedListUC9\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.genruntimeconfig.cache
