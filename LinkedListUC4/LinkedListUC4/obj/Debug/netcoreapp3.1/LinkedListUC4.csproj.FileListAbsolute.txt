@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\bin\Debug\netcoreapp3.1\LinkedListUC4.exe
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\bin\Debug\netcoreapp3.1\LinkedListUC4.deps.json
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\bin\Debug\netcoreapp3.1\LinkedListUC4.runtimeconfig.json
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\bin\Debug\netcoreapp3.1\LinkedListUC4.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\bin\Debug\netcoreapp3.1\LinkedListUC4.dll
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\bin\Debug\netcoreapp3.1\LinkedListUC4.pdb
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\obj\Debug\netcoreapp3.1\LinkedListUC4.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\obj\Debug\netcoreapp3.1\LinkedListUC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\obj\Debug\netcoreapp3.1\LinkedListUC4.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\obj\Debug\netcoreapp3.1\LinkedListUC4.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\obj\Debug\netcoreapp3.1\LinkedListUC4.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\obj\Debug\netcoreapp3.1\LinkedListUC4.dll
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\obj\Debug\netcoreapp3.1\LinkedListUC4.pdb
+C:\Users\INDIA\source\repos\LinkedListUC4\LinkedListUC4\obj\Debug\netcoreapp3.1\LinkedListUC4.genruntimeconfig.cache
